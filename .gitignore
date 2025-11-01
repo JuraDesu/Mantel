@@ -1,3 +1,5 @@
 build/
 Mantel_Test
 Mantel_TODO.txt
+.vscode/
+.idea/

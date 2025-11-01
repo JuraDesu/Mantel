@@ -12,7 +12,6 @@ namespace Mantel::Utils{
             int angleDeg, angleRad;
             int tempX, tempY;
     };
-    std::ostream& operator<<(std::ostream& stream, Rotation rot){
+    /*std::ostream& operator<<(std::ostream& stream, Rotation rot){
         return stream << "\033[31mRotation X: " << rot.x << "\033[34mRotation Y: " << rot.y << std::endl;
-    }
-}
+    }}*/
